@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GenerateLotto::VERSION
   spec.authors       = ["elitenomad"]
   spec.email         = ["stalin.pranava@gmail.com"]
-  spec.summary       = %q{TODO: Generates Random numbers for your Lottery.}
-  spec.description   = %q{TODO: Generates Random numbers for your Lottery.}
+  spec.summary       = %q{Generates Random numbers for your Lottery.}
+  spec.description   = %q{Generates Random numbers for your Lottery.}
   spec.homepage      = "https://github.com/elitenomad/generate_lotto"
   spec.license       = "MIT"
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
