@@ -2,6 +2,7 @@ require "generate_lotto/version"
 require "generate_lotto/drawing"
 require "generate_lotto/core_ext"
 require "generate_lotto/configuration"
+require "generate_lotto/helper"
 
 begin
     require "pry"
