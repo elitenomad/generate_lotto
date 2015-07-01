@@ -7,5 +7,9 @@ module GenerateLotto
         include GenerateLotto::Helper
       end
     end
+
+    rake_tasks do
+      load "generate_lotto/tasks/generate_lotto.rake"
+    end
   end
 end
